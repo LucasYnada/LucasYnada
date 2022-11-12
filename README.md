@@ -11,9 +11,9 @@
 
 <div align="center">
   <a href="https://github.com/lucasynada">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasynada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasynada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/lucasynada">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasynada&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasynada&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -28,5 +28,3 @@
 <a href ="mailto:lucasynadacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
-
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
