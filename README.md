@@ -1,7 +1,9 @@
 ### Hey dev, eu sou o Lucas Eiji 👋
  </br>
 - 🌱 Conhecimento em HTML e CSS, iniciando em JavaScript
- </br> </br>
+
+ </br></br></br>
+ 
 <div align="center">
   <a href="https://github.com/lucasynada">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasynada&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
