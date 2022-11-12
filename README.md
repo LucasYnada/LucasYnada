@@ -2,7 +2,7 @@
  </br>
 - 🌱 Conhecimento em HTML e CSS, iniciando em JavaScript
 
- </br></br></br>
+ </br></br>
  
 <div align="center">
   <a href="https://github.com/lucasynada">
