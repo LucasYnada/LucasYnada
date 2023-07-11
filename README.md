@@ -1,4 +1,4 @@
-### Hey dev, eu sou o Lucas Eiji 👋
+### Olá, eu sou o Lucas Eiji!
 
 - 🌱 Conhecimento em HTML e CSS, iniciando em JavaScript.
 
