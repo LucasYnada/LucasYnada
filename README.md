@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Eiji!
 
-- 🌱 Conhecimento em HTML e CSS, iniciando em JavaScript.
+- Estudante de Java.
 
  </br></br>
  
