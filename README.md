@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Eiji!
 
-- Estudante de Java.
+- Learning Java.
 
  </br></br>
  
