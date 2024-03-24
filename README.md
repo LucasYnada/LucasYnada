@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Eiji!
+### Hi, I'm Lucas Eiji!
 
 - Learning Java.
 
