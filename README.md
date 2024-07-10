@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas Eiji!
 
-- Learning Java.
+- Learning Python.
 
  </br></br>
  
