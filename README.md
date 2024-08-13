@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas Eiji!
 
-- Learning Python.
+- Learning Front-end.
 
  </br></br>
  
